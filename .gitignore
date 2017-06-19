@@ -1,0 +1,39 @@
+uploads
+node_modules
+docs/*.png
+screenshot-*.png
+phantomjsdriver.log
+
+# IntelliJ IDEA project files
+.idea
+*.iml
+
+# OS X Finder properties files
+.DS_Store
+
+# Enviroment files which may contain keys and secrets
+.env
+
+# Visual Studio Code config files
+.vscode
+
+# Test artifacts
+xunit.xml
+coverage
+
+# Version artifact
+public/ver.txt
+
+# NPM garbage
+npm-debug.log
+
+public/members.html
+public/src
+
+# Super secret stuff
+github_npm
+.npmrc
+
+# ecs_depoy artifacts
+mailApp.json
+webApp.json

@@ -1,0 +1,15 @@
+.align-right {
+	float: right;
+}
+
+.code-metric-result-success {
+	color: green
+}
+
+.code-metric-result-error {
+	color: red
+}
+
+#jsinput {
+	resize: vertical;
+}
